@@ -63,7 +63,7 @@ pip install numpy
 ## Requirements
 * Python ≥ 3.6
 
-* NumPy (for speedy k-mer math)
+* NumPy 
 
 * argparse (bundled with Python)
 
